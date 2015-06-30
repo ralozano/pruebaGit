@@ -16,7 +16,6 @@ class ViewController: UIViewController {
         // Cambio 1
         // Cambio 2
         // Cambio 3
-        // Este cambio sólo está en la rama b3
     }
 
     override func didReceiveMemoryWarning() {
